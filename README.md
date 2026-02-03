@@ -19,16 +19,17 @@
 ```text
 docs/
 ├── roles/                    # 职业职责（每个角色一份完整手册）
-│   ├── industrial-engineer.md
-│   ├── aerospace-engineer.md
-│   ├── scientist.md
-│   └── logistics-coordinator.md
+│   ├── industrial-engineer.md     # 🏭 工业工程师
+│   ├── aerospace-engineer.md      # 🚀 航天工程师
+│   ├── scientist.md               # 🔬 科学家
+│   ├── civilian-handbook          # 🧍 公民
+│   └── logistics-coordinator.md   # 📦 后勤协调员 / 物流官
 │
-├── civilization-stages.md    # 文明阶段 / 时间压力 / 里程碑
-├── disasters.md              # 灾难类型与应急 SOP
-├── lore.md                   # 世界观与叙事事件
-├── endings.md                # 结局逻辑（成功 / 遗迹文明）
-└── admin-handbook.md         # 管理员规则与指令
+├── civilization-stages.md    # 🏛️ 文明阶段与发展进程
+├── disasters.md              # 🌋 灾难系统说明
+├── lore.md                   # 🌌 世界观与背景设定（Lore）
+├── endings.md                # 🧭 结局系统（文明命运）
+└── admin-handbook.md         # 🛠️ 管理员操作手册
 ```
 
 ---
