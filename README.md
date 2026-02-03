@@ -229,11 +229,6 @@ docs/
 - 留守派抉择事件
 
 ---
-## 攻略与玩法
-
-请到https://github.com/NLAmc/Planetary-Exodus-Strategy
-
----
 
 ### 阶段四：启程之时
 - 72h 最终加载
