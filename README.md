@@ -182,6 +182,11 @@
 👉 同时支持单机体验
 
 ---
+## 攻略与玩法
+
+请到https://github.com/NLAmc/Planetary-Exodus-Strategy
+
+---
 
 ## 📜 License
 
